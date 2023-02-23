@@ -1,4 +1,4 @@
-#DNS Server Switcher
+# DNS Server Switcher
 
 This script allows you to easily set your DNS server on Linux using NetworkManager.
 
