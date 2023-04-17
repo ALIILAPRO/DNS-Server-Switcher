@@ -39,6 +39,7 @@ By default, the script comes with a list of popular DNS servers in Iran. You can
 | Begzar DNS   | 185.55.225.25,185.55.226.26 |
 | 403 DNS      | 10.202.10.202,10.202.10.102 |
 | Radar DNS    | 10.202.10.10,10.202.10.11 |
+| Electro DNS  | 78.157.42.100,78.157.42.101 |
 
 ## Requirements
 
